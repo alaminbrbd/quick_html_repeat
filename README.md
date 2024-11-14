@@ -1,2 +1,3 @@
 # quick_html_repeat
-Link
+Link:
+https://alaminbrbd.github.io/quick_html_repeat/
